@@ -73,9 +73,6 @@ To learn how skills work in your agent:
 - [Claude Code skills documentation](https://docs.claude.com/en/docs/claude-code/skills)
 - [OpenAI Skills documentation](https://help.openai.com/en/articles/20001066-skills-in-chatgpt)
 
-## Credits
-
-Seven of these skills began as forks of the OpenSEO agent skills from [every-app/open-seo](https://github.com/every-app/open-seo) (MIT) and have been adapted for Conqueror. `conquer-keyword` is new.
 
 ## License
 
