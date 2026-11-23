@@ -73,6 +73,13 @@ To learn how skills work in your agent:
 - [Claude Code skills documentation](https://docs.claude.com/en/docs/claude-code/skills)
 - [OpenAI Skills documentation](https://help.openai.com/en/articles/20001066-skills-in-chatgpt)
 
+## As a plugin
+
+The repo is also a plugin (`.claude-plugin/plugin.json`): installing it adds these skills and the Conqueror MCP server in one step, in agents that read that manifest, such as Claude Code and Grok Build.
+
+## Network and credentials
+
+The plugin talks to one endpoint, the Conqueror MCP server at `https://winwith.conquerorapp.com/mcp` (`.mcp.json`). It signs in with OAuth against your Conqueror account in the browser. No API keys, tokens or environment variables are read, and the skills run no scripts.
 
 ## License
 
