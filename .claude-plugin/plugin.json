@@ -1,0 +1,21 @@
+{
+  "name": "conqueror",
+  "description": "An AI agent that runs your SEO. Skills for keyword research, clustering, competitor analysis, link prospecting and page rewrites, plus the Conqueror MCP server for live keyword, SERP, backlink, rank and Search Console data.",
+  "author": {
+    "name": "Conqueror",
+    "email": "dev@conquerorapp.com",
+    "url": "https://conquerorapp.com"
+  },
+  "homepage": "https://conquerorapp.com",
+  "repository": "https://github.com/Shipper-dot-now/conqueror-skills",
+  "license": "MIT",
+  "keywords": [
+    "conqueror",
+    "seo",
+    "keyword-research",
+    "backlinks",
+    "rank-tracking",
+    "search-console",
+    "mcp"
+  ]
+}

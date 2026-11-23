@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "conqueror": {
+      "type": "http",
+      "url": "https://winwith.conquerorapp.com/mcp"
+    }
+  }
+}
